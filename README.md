@@ -9,7 +9,7 @@ Teachers can send custom quizzes and surveys to students for grading and feedbac
 | email: teacher<span></span>@test.com | email: student<span></span>@test.com |
 | password: password                   | password: password                   |
 
-### `Quiz cretion`
+### `Quiz creation`
 ![](/screen_shots/Quiz_Creation.png)
 ### `Student's view after submitting`
 ![](/screen_shots/Student_Quiz_Result.png)
