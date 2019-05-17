@@ -1,5 +1,5 @@
 ## Query
-An on-the-fly assesment web app.  
+An on-the-fly assessment web app.  
 Teachers can send custom quizzes and surveys to students for grading and feedback.  
 ## Demo
 [Query](https://query-bweegee.herokuapp.com/)
